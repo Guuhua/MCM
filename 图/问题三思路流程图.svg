@@ -1,0 +1,159 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 474 439" width="474" height="439" xmlns="http://www.w3.org/2000/svg">
+    <style type="text/css"><![CDATA[
+.st1 {fill:#191919;font-family:微软雅黑;font-size:11pt}
+.st3 {fill:#191919;font-family:微软雅黑;font-size:9pt}
+.st2 {font-size:7.15pt;baseline-shift:sub}
+]]></style>
+    <defs/>
+    <g transform="translate(-183.5,-282.5)">
+        <g transform="translate(373,645.75)" id="shape1">
+            <path d="M124,64L124,11C124,4.9,119.1,0,113,0L11,0C4.9,0,0,4.9,0,11L0,64C0,70.1,4.9,75,11,75L113,75C119.1,75,124,70.1,124,64z" stroke="#323232" fill="#b2c2e9" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="7" y="33"> 建立RON损失的</tspan>
+                <tspan x="33" y="52">预测模型</tspan>
+            </text>
+        </g>
+        <g transform="translate(373,283)" id="shape2">
+            <path d="M124,54L124,11C124,4.9,119.1,0,113,0L11,0C4.9,0,0,4.9,0,11L0,54C0,60.1,4.9,65,11,65L113,65C119.1,65,124,60.1,124,54z" stroke="#323232" fill="#b2c2e9" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="4" y="28">基于随机森林进行</tspan>
+                <tspan x="33" y="47">特征选择</tspan>
+            </text>
+        </g>
+        <g transform="translate(321,384)" id="shape3">
+            <path d="M51,40L51,11C51,4.9,46.1,0,40,0L11,0C4.9,0,0,4.9,0,11L0,40C0,46.1,4.9,51,11,51L40,51C46.1,51,51,46.1,51,40z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="8.5" y="30.5">特征</tspan>
+                <tspan class="st2" y="33.6">1</tspan>
+            </text>
+        </g>
+        <g transform="translate(435,348)" id="shape4">
+            <path d="M0,0L-81.7,33.2" stroke="#323232" fill="none" stroke-width="2"/>
+            <path d="M-88.5,36L-80.1,37.2L-83.3,29.3L-88.5,36" stroke="#323232" stroke-linecap="round" fill="none" stroke-width="2" stroke-linejoin="round"/>
+        </g>
+        <g transform="translate(390.5,384)" id="shape5">
+            <path d="M51,40L51,11C51,4.9,46.1,0,40,0L11,0C4.9,0,0,4.9,0,11L0,40C0,46.1,4.9,51,11,51L40,51C46.1,51,51,46.1,51,40z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="8.5" y="30.5">特征</tspan>
+                <tspan class="st2" y="33.6">2</tspan>
+            </text>
+        </g>
+        <g transform="translate(460,384)" id="shape6">
+            <path d="M51,40L51,11C51,4.9,46.1,0,40,0L11,0C4.9,0,0,4.9,0,11L0,40C0,46.1,4.9,51,11,51L40,51C46.1,51,51,46.1,51,40z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="8.5" y="30.5">特征</tspan>
+                <tspan class="st2" y="33.6">3</tspan>
+            </text>
+        </g>
+        <g transform="translate(435,348)" id="shape7">
+            <path d="M0,0L-15.6,29.5" stroke="#323232" fill="none" stroke-width="2"/>
+            <path d="M-19,36L-11.8,31.5L-19.3,27.5L-19,36" stroke="#323232" stroke-linecap="round" fill="none" stroke-width="2" stroke-linejoin="round"/>
+        </g>
+        <g transform="translate(435,348)" id="shape8">
+            <path d="M0,0L44,31.4" stroke="#323232" fill="none" stroke-width="2"/>
+            <path d="M50.5,36L46.7,27.7L41.4,35.1L50.5,36" stroke="#323232" stroke-linecap="round" fill="none" stroke-width="2.33333" stroke-linejoin="round"/>
+        </g>
+        <path transform="translate(520.5,406.75)" d="M0,2.8C0,1.2,1.2,0,2.8,0C4.3,0,5.5,1.2,5.5,2.8C5.5,4.3,4.3,5.5,2.8,5.5C1.2,5.5,0,4.3,0,2.8z" stroke="#323232" id="shape9" fill="#000000" fill-rule="evenodd"/>
+        <path transform="translate(533.5,406.75)" d="M0,2.8C0,1.2,1.2,0,2.8,0C4.3,0,5.5,1.2,5.5,2.8C5.5,4.3,4.3,5.5,2.8,5.5C1.2,5.5,0,4.3,0,2.8z" stroke="#323232" id="shape10" fill="#000000" fill-rule="evenodd"/>
+        <path transform="translate(546.5,406.75)" d="M0,2.8C0,1.2,1.2,0,2.8,0C4.3,0,5.5,1.2,5.5,2.8C5.5,4.3,4.3,5.5,2.8,5.5C1.2,5.5,0,4.3,0,2.8z" stroke="#323232" id="shape11" fill="#000000" fill-rule="evenodd"/>
+        <path transform="translate(559.5,406.75)" d="M0,2.8C0,1.2,1.2,0,2.8,0C4.3,0,5.5,1.2,5.5,2.8C5.5,4.3,4.3,5.5,2.8,5.5C1.2,5.5,0,4.3,0,2.8z" stroke="#323232" id="shape12" fill="#000000" fill-rule="evenodd"/>
+        <path transform="translate(572.5,406.75)" d="M0,2.8C0,1.2,1.2,0,2.8,0C4.3,0,5.5,1.2,5.5,2.8C5.5,4.3,4.3,5.5,2.8,5.5C1.2,5.5,0,4.3,0,2.8z" stroke="#323232" id="shape13" fill="#000000" fill-rule="evenodd"/>
+        <path transform="translate(585.5,406.75)" d="M0,2.8C0,1.2,1.2,0,2.8,0C4.3,0,5.5,1.2,5.5,2.8C5.5,4.3,4.3,5.5,2.8,5.5C1.2,5.5,0,4.3,0,2.8z" stroke="#323232" id="shape14" fill="#000000" fill-rule="evenodd"/>
+        <g transform="translate(596,384)" id="shape15">
+            <path d="M51,40L51,11C51,4.9,46.1,0,40,0L11,0C4.9,0,0,4.9,0,11L0,40C0,46.1,4.9,51,11,51L40,51C46.1,51,51,46.1,51,40z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="8" y="30.5">特征</tspan>
+                <tspan class="st2" y="33.6">n</tspan>
+            </text>
+        </g>
+        <g transform="translate(435,348)" id="shape16">
+            <path d="M0,0L178.7,34.5" stroke="#323232" fill="none" stroke-width="2"/>
+            <path d="M186.5,36L179.6,30L177.8,39L186.5,36" stroke="#323232" stroke-linecap="round" fill="none" stroke-width="2.33333" stroke-linejoin="round"/>
+        </g>
+        <g transform="translate(373,510.72)" id="shape17">
+            <path d="M124,54L124,11C124,4.9,119.1,0,113,0L11,0C4.9,0,0,4.9,0,11L0,54C0,60.1,4.9,65,11,65L113,65C119.1,65,124,60.1,124,54z" stroke="#323232" fill="#b2c2e9" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="4" y="28">选取效果优秀的预</tspan>
+                <tspan x="40.5" y="47">测模型</tspan>
+            </text>
+        </g>
+        <path transform="translate(346.5,435)" d="M0,0L88.5,75.7" stroke="#323232" id="shape18" fill="none" stroke-width="2"/>
+        <path transform="translate(416,435)" d="M0,0L19,75.7" stroke="#323232" id="shape19" fill="none" stroke-width="2"/>
+        <path transform="translate(485.5,435)" d="M0,0L-50.5,75.7" stroke="#323232" id="shape20" fill="none" stroke-width="2"/>
+        <path transform="translate(621.5,435)" d="M0,0L-186.5,75.7" stroke="#323232" id="shape21" fill="none" stroke-width="2"/>
+        <g transform="translate(184,445.47)" id="shape22">
+            <path d="M105,51L105,0L0,0L0,51L105,51z" stroke="#323232" fill="#dedede" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="9" y="21">支持向量机回</tspan>
+                <tspan x="31" y="40">归模型</tspan>
+            </text>
+        </g>
+        <g transform="translate(184,508.72)" id="shape23">
+            <path d="M105,69L105,0L0,0L0,69L105,69z" stroke="#323232" fill="#dedede" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="9" y="20.5">粒子群算法优</tspan>
+                <tspan x="9" y="39.5">化支持向量机</tspan>
+                <tspan x="23.5" y="58.5">回归模型</tspan>
+            </text>
+        </g>
+        <g transform="translate(184,589.97)" id="shape24">
+            <path d="M105,51L105,0L0,0L0,51L105,51z" stroke="#323232" fill="#dedede" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="9" y="21">多层感知器回</tspan>
+                <tspan x="31" y="40">归模型</tspan>
+            </text>
+        </g>
+        <g transform="translate(553,475.14)" id="shape25">
+            <path d="M104,31.5L104,11C104,4.9,99.1,0,93,0L11,0C4.9,0,0,4.9,0,11L0,31.5C0,37.6,4.9,42.5,11,42.5L93,42.5C99.1,42.5,104,37.6,104,31.5z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="8.5" y="26.2">原料性质特征</tspan>
+            </text>
+        </g>
+        <g transform="matrix(0.87,0.5,-0.5,0.87,305.5,455.9)" id="shape26">
+            <path d="M0,9.8L66.9,9.8L66.9,0L81.6,16.3L66.9,32.7L66.9,22.9L0,22.9L0,9.8z" stroke="#323232" fill="#efefef" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="31.5" y="21.3"> </tspan>
+            </text>
+        </g>
+        <g transform="matrix(0.87,-0.5,0.5,0.87,290.7,599.2)" id="shape27">
+            <path d="M0,9.8L66.9,9.8L66.9,0L81.6,16.3L66.9,32.7L66.9,22.9L0,22.9L0,9.8z" stroke="#323232" fill="#efefef" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="31.5" y="21.3"> </tspan>
+            </text>
+        </g>
+        <g transform="translate(294.02,526.88)" id="shape28">
+            <path d="M0,9.8L60.8,9.8L60.8,0L75.5,16.3L60.8,32.7L60.8,22.9L0,22.9L0,9.8z" stroke="#323232" fill="#efefef" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="28.4" y="21.3"> </tspan>
+            </text>
+        </g>
+        <g transform="matrix(0,1,-1,0,451.3,577.7)" id="shape29">
+            <path d="M0,9.8L48.5,9.8L48.5,0L63.2,16.3L48.5,32.7L48.5,22.9L0,22.9L0,9.8z" stroke="#323232" fill="#efefef" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="22.3" y="21.3"> </tspan>
+            </text>
+        </g>
+        <g transform="translate(553,533.22)" id="shape30">
+            <path d="M104,31.5L104,11C104,4.9,99.1,0,93,0L11,0C4.9,0,0,4.9,0,11L0,31.5C0,37.6,4.9,42.5,11,42.5L93,42.5C99.1,42.5,104,37.6,104,31.5z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="8.5" y="16.8">待生吸附剂性</tspan>
+                <tspan x="30.5" y="35.8">质特征</tspan>
+            </text>
+        </g>
+        <g transform="translate(553,590.35)" id="shape31">
+            <path d="M104,27L104,11C104,4.9,99.1,0,93,0L11,0C4.9,0,0,4.9,0,11L0,27C0,33.1,4.9,38,11,38L93,38C99.1,38,104,33.1,104,27z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="8.5" y="14.5">再生吸附剂性</tspan>
+                <tspan x="30.5" y="33.5">质特征</tspan>
+            </text>
+        </g>
+        <path transform="translate(553,496.39)" d="M0,0L-56,46.8" stroke="#323232" id="shape32" fill="none" stroke-width="2"/>
+        <path transform="translate(553,554.47)" d="M0,0L-56,-11.3" stroke="#323232" id="shape33" fill="none" stroke-width="2"/>
+        <path transform="translate(553,609.35)" d="M0,0L-56,-66.1" stroke="#323232" id="shape34" fill="none" stroke-width="2"/>
+        <g transform="translate(521,378)" id="shape35">
+            <text class="st3">
+                <tspan x="11" y="18.3">操作变量</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

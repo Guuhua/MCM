@@ -1,0 +1,68 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 418 216" width="418" height="216" xmlns="http://www.w3.org/2000/svg">
+    <style type="text/css"><![CDATA[
+.st1 {fill:#191919;font-family:微软雅黑;font-size:11pt}
+.st2 {fill:#191919;font-family:微软雅黑;font-size:12pt}
+]]></style>
+    <defs/>
+    <g transform="translate(-349.5,-306.5)">
+        <g transform="translate(350,307)" id="shape1">
+            <path d="M104,31.5L104,11C104,4.9,99.1,0,93,0L11,0C4.9,0,0,4.9,0,11L0,31.5C0,37.6,4.9,42.5,11,42.5L93,42.5C99.1,42.5,104,37.6,104,31.5z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="8.5" y="26.3">原料性质特征</tspan>
+            </text>
+        </g>
+        <g transform="translate(350,365.09)" id="shape2">
+            <path d="M104,31.5L104,11C104,4.9,99.1,0,93,0L11,0C4.9,0,0,4.9,0,11L0,31.5C0,37.6,4.9,42.5,11,42.5L93,42.5C99.1,42.5,104,37.6,104,31.5z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="8.5" y="16.8">待生吸附剂性</tspan>
+                <tspan x="30.5" y="35.8">质特征</tspan>
+            </text>
+        </g>
+        <g transform="translate(350,422.21)" id="shape3">
+            <path d="M104,31.5L104,11C104,4.9,99.1,0,93,0L11,0C4.9,0,0,4.9,0,11L0,31.5C0,37.6,4.9,42.5,11,42.5L93,42.5C99.1,42.5,104,37.6,104,31.5z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="8.5" y="16.8">再生吸附剂性</tspan>
+                <tspan x="30.5" y="35.8">质特征</tspan>
+            </text>
+        </g>
+        <g transform="translate(350,479.34)" id="shape4">
+            <path d="M104,31.5L104,11C104,4.9,99.1,0,93,0L11,0C4.9,0,0,4.9,0,11L0,31.5C0,37.6,4.9,42.5,11,42.5L93,42.5C99.1,42.5,104,37.6,104,31.5z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st1">
+                <tspan x="8.5" y="26.5">操作变量特征</tspan>
+            </text>
+        </g>
+        <g transform="translate(514.76,383.33)" id="shape5">
+            <path d="M93,65.3L93,0L0,0L0,65.3L93,65.3z" stroke="#323232" fill="#cbe3f8" fill-rule="evenodd"/>
+            <text class="st2">
+                <tspan x="6.5" y="28.5">支持向量回</tspan>
+                <tspan x="30.5" y="49">归机</tspan>
+            </text>
+        </g>
+        <path transform="translate(466.22,319.29)" d="M0,10C22.6,10,41,28.4,41,51L34.7,51L46,62.3L57.3,51L51,51L51,51C51,22.8,28.2,0,0,0L0,10z" stroke="#0b4349" id="shape6" fill="#ffffff" fill-rule="evenodd"/>
+        <path transform="translate(465.11,461.71)" d="M0,42.1C23.3,42.1,42.1,23.3,42.1,0L35.1,0L47.1,-12L59.1,0L52.1,0L52.1,0C52.1,28.8,28.8,52.1,0,52.1L0,42.1z" stroke="#0b4349" id="shape7" fill="#ffffff" fill-rule="evenodd"/>
+        <g transform="translate(459.99,378)" id="shape8">
+            <path d="M0,7L38.2,7L38.2,0L48.8,11.7L38.2,23.4L38.2,16.4L0,16.4L0,7z" stroke="#323232" fill="#ffffff" fill-rule="evenodd"/>
+            <text class="st2">
+                <tspan x="17.1" y="17.5"> </tspan>
+            </text>
+        </g>
+        <g transform="translate(459.99,425.25)" id="shape9">
+            <path d="M0,7L38.2,7L38.2,0L48.8,11.7L38.2,23.4L38.2,16.4L0,16.4L0,7z" stroke="#323232" fill="#ffffff" fill-rule="evenodd"/>
+            <text class="st2">
+                <tspan x="17.1" y="17.5"> </tspan>
+            </text>
+        </g>
+        <g transform="translate(613.75,399.2)" id="shape10">
+            <path d="M0,10.1L42.1,10.1L42.1,0L57.3,16.8L42.1,33.6L42.1,23.5L0,23.5L0,10.1z" stroke="#323232" fill="#ffffff" fill-rule="evenodd"/>
+            <text class="st2">
+                <tspan x="19.1" y="22.5"> </tspan>
+            </text>
+        </g>
+        <g transform="translate(676.99,390.8)" id="shape11">
+            <path d="M0,25.2C0,11.3,20.2,0,45,0C69.9,0,90.1,11.3,90.1,25.2C90.1,39.1,69.9,50.4,45,50.4C20.2,50.4,0,39.1,0,25.2z" stroke="#323232" fill="#d0d9f1" fill-rule="evenodd"/>
+            <text class="st2">
+                <tspan x="21" y="31.3">硫含量</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

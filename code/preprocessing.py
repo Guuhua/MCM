@@ -5,6 +5,7 @@ File_name_1 = ['附件三_异常值0(填充1).csv', '附件三_异常值0(填充
 File_name_2 = ['附件三_异常值0(填充1)1.csv', '附件三_异常值0(填充2)2.csv']
 File_name_3 = ['附件三_异常值0(填充1)11.csv', '附件三_异常值0(填充2)22.csv']
 
+# 判断3lamda，看元素是否满足条件
 def Preprocess_lamda(filepath_r='', filepath_w=''):
     # 读取数据
     sheet_1 = pd.read_csv(filepath_r, skiprows= 0)
@@ -39,7 +40,6 @@ def Preprocess_lamda(filepath_r='', filepath_w=''):
             tmp2 = 0.
         lamda_1.append(tmp2)
 
-    # k = 0
     sheet_11 = sheet_1
     for l in sheet_1:
         lam = lamda_1[int(l)-1] * 3
@@ -48,13 +48,10 @@ def Preprocess_lamda(filepath_r='', filepath_w=''):
             if sheet_1[l][i] != 0.:
                 tmp = sheet_1[l][i] - ave
                 if not -lam <= tmp <= lam:
-                    # k += 1
                     sheet_11[l][i] = 0.
-                    # print(l,i,lam,ave,sheet_1[l][i])
-    # print(k)
-    # print(sheet_11)
     sheet_11.to_csv(filepath_w)
 
+# 补充缺失值
 def Preprocess_zero(filepath_r='', filepath_w=''):
     sheet_1 = pd.read_csv(filepath_r)
     sheet_11 = sheet_1 
